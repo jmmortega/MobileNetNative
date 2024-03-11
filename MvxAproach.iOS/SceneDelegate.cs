@@ -1,7 +1,4 @@
-using Foundation;
-using UIKit;
-
-namespace MobileNetNative.Ios;
+namespace MvxAproach.iOS;
 
 [Register("SceneDelegate")]
 public class SceneDelegate : UIResponder, IUIWindowSceneDelegate
